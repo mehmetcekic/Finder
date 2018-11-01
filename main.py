@@ -5,7 +5,7 @@ import time
 
 start_time = time.time()
 
-search_list = {"test","bac", "sdfsd", "ali", "veli","ahmet", "mehmet", "murat",
+search_list = {"test","mert", "mustafa", "ali", "veli","ahmet", "mehmet", "murat",
                "can", "belge", "crawl", "deneme", "versiyon", "sunum", "son"}
 
 search_area = "/"
